@@ -2,17 +2,21 @@ html {background-color: black;
       text-align: center;
 }
 h4 {color: white;}
-p { color: aquamarine;
+.blues { color: aquamarine;
     font-size: 16px;
   }
 .big {font-family: verdana;
       font-weight: normal;
       font-size: 50px;
 }
-h3 { font-family: verdana;
+h2 { font-family: verdana;
     font-weight: 300px;
-    font-size: 42;
+    font-size: 72;
+    color: white;
   }
-  #para {font-family: verdana;
+  .para {font-family: verdana;
           font-size: 21px;
         color: gray;}
+.copy {text-align: right;
+      color: gray;
+}
