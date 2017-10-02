@@ -1,0 +1,18 @@
+html {background-color: black;
+      text-align: center;
+}
+h4 {color: white;}
+p { color: aquamarine;
+    font-size: 16px;
+  }
+.big {font-family: verdana;
+      font-weight: normal;
+      font-size: 50px;
+}
+h3 { font-family: verdana;
+    font-weight: 300px;
+    font-size: 42;
+  }
+  #para {font-family: verdana;
+          font-size: 21px;
+        color: gray;}
